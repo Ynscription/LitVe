@@ -1,0 +1,2 @@
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVeContent\obj\x86\Debug\LitVeContent.contentprojResolveAssemblyReference.cache
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVeContent\obj\x86\Debug\LitVeContent.contentprojResolveAssemblyReference.cache

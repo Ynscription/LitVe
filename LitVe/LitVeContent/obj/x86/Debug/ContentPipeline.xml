@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BackGrounds\titleScreen.png</Source>
+      <Name>BackGrounds\titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\BackGrounds\titleScreen.xnb</Output>
+      <Time>2014-08-04T10:27:57.0527217+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\leftarrowUp.png</Source>
+      <Name>GUI\leftarrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\GUI\leftarrowUp.xnb</Output>
+      <Time>2014-08-04T20:51:42.4736827+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ControlFont.spritefont</Source>
+      <Name>Fonts\ControlFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Fonts\ControlFont.xnb</Output>
+      <Time>2014-08-04T19:26:23.1468815+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LitVy005.fbx</Source>
+      <Name>Models\LitVy005</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005.xnb</Output>
+      <Time>2014-08-05T18:43:15.9286629+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\LitVy005_0.xml</Key>
+        <Value>2014-08-07T15:56:25.1124149+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\LitVy005.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\LitVy005_0.xml</Output>
+      <Time>2014-08-05T18:43:15.9286629+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LitVy005.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005_0.xnb</Output>
+      <Time>2014-08-07T12:34:45.6423742+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\Grass.png</Source>
+      <Name>Map\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Map\Grass.xnb</Output>
+      <Time>2014-10-06T10:04:46.5805852+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-28T18:19:25.82747+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

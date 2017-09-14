@@ -1,0 +1,24 @@
+c:\users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\LitVe.exe
+c:\users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\LitVe.pdb
+c:\users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\LitVe.exe
+c:\users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\LitVe.pdb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\BackGrounds\titleScreen.xnb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005.xnb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005_0.xnb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\LitVe.csprojResolveAssemblyReference.cache
+C:\Users\eavilarod\documents\visual studio 2010\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Map\Grass.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\BackGrounds\titleScreen.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Map\Grass.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\Content\Models\LitVy005_0.xnb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\LitVe.exe
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\bin\x86\Debug\LitVe.pdb
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\LitVe.csprojResolveAssemblyReference.cache
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\LitVe.exe
+E:\PenBackUp\Code\C#\Projects\LitVe\LitVe\LitVe\obj\x86\Debug\LitVe.pdb
